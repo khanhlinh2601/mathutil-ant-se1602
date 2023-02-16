@@ -5,5 +5,7 @@
 * A demonstration of applying CI technique based on GitHub Actions, Ant build tool
 * ......
 
+### Screenshots
+![Source code with JUnit](https://github.com/khanhlinh2601/mathutil-ant-se1602/blob/main/Screenshot/source-code-with-junit.png)
 ### Contact me via
 #### Copyright &#169; 2023 khanhlinh
