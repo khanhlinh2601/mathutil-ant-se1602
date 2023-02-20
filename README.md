@@ -9,3 +9,5 @@
 ![Source code with JUnit](https://github.com/khanhlinh2601/mathutil-ant-se1602/blob/main/Screenshot/source-code-with-junit.png)
 ### Contact me via
 #### Copyright &#169; 2023 khanhlinh
+
+[![Demostration of using CI with GitHub Actions, Ant and JUnit | © 2023 by linhtk](https://github.com/khanhlinh2601/mathutil-ant-se1602/actions/workflows/mathutil-ant-ci.yml/badge.svg)](https://github.com/khanhlinh2601/mathutil-ant-se1602/actions/workflows/mathutil-ant-ci.yml)
